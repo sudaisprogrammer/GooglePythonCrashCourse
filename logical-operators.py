@@ -6,3 +6,4 @@ meta = False
 print(not google) #false
 print(meta or google) #google true
 print(meta and google) #true if both are true else false
+print("Yellow">"Cyan" and "Brown">"Magneta")
