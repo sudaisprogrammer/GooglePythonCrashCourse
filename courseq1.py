@@ -1,0 +1,10 @@
+def is_power(number,base):
+    if number<base:
+        if number!=1:
+            return 0
+        return 1
+    return is_power(number/base,base)
+
+print(is_power(8,2))
+print(is_power(16,2))
+print(is_power(3666,2))
