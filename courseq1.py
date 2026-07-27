@@ -5,6 +5,6 @@ def is_power(number,base):
         return 1
     return is_power(number/base,base)
 
-print(is_power(8,2))
+print(is_power(8,2)) # as 2^3 = 8 return 1
 print(is_power(16,2))
 print(is_power(3666,2))
