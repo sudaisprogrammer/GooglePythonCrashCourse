@@ -1,4 +1,4 @@
-
+#the aim of this program is to gain real life experience with while loop and input
 def check_attempts(password):
     total_attempts = 4
     x = 1
