@@ -4,3 +4,4 @@ def triangle(rows):
             print(" * ",end="")
         print(" ")
 
+triangle(5)
