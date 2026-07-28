@@ -1,8 +1,9 @@
 def lefttriangle(rows):
     space = rows
-    for i in range(space):
-        print(" ")
-        
+    for i in range(rows):
+        for j in range(space-i):
+
+
 
 
 
