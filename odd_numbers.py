@@ -4,7 +4,7 @@ def maximum_odd(num):
     for i in range(1,num):
         if i%2!=0:
             return_string +=f",{i}" #here we are adding new number to string variable
-    return return_string.rstrip()
+    return return_string.rstrip() # returning to function string values of return_string
 
 
 print(maximum_odd(6)) 
