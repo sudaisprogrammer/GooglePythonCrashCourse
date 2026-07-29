@@ -3,7 +3,7 @@ def maximum_odd(num):
     return_string = ""
     for i in range(1,num):
         if i%2!=0:
-            return_string +=f",{i}"
+            return_string +=f",{i}" #here we are adding new number to string variable
     return return_string.rstrip()
 
 
