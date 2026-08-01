@@ -15,7 +15,7 @@ def replace_ending(sentence, old, new):
     return sentence
     
 print(replace_ending("It's raining cats and cats", "cats", "dogs")) 
-# Should display "It's
+
 print(replace_ending("She sells seashells by the seashore", "seashells", "donuts")) 
 
 print(replace_ending("The weather is nice in May", "may", "april")) 
