@@ -22,3 +22,12 @@ print(file_count)
 for key,value in file_count.items():
     print(key,value)
 
+
+#printing just values
+
+for value in file_count.values():
+    print(value)
+
+#printing just keys
+for key in file_count.keys():
+    print(key)
