@@ -19,6 +19,6 @@ print(replace_ending("It's raining cats and cats", "cats", "dogs"))
 print(replace_ending("She sells seashells by the seashore", "seashells", "donuts")) 
 # Should display "She sells seashells by the seashore"
 print(replace_ending("The weather is nice in May", "may", "april")) 
-# Should display "The weather is nice in May"
+
 print(replace_ending("The weather is nice in May", "May", "April")) 
 
