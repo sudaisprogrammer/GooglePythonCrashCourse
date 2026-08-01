@@ -19,7 +19,7 @@ score.pop(2) #pop method is used to remove the specified index default is last e
 print(score)
 
 score.sort(reverse=False) #sort method is used to sort the list in ascending order
-print(score)
+print(score) #print the list in ascending order
 
 score.reverse() #reverse method is used to reverse the list
 print(score)
