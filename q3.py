@@ -10,7 +10,6 @@ def replace_ending(sentence, old, new):
         new_sentence = i+new
         return new_sentence
 
-
     # Return the original sentence if there is no match 
     return sentence
     
@@ -21,4 +20,3 @@ print(replace_ending("She sells seashells by the seashore", "seashells", "donuts
 print(replace_ending("The weather is nice in May", "may", "april")) 
 
 print(replace_ending("The weather is nice in May", "May", "April")) 
-
