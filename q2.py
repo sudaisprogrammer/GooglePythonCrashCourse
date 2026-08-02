@@ -4,7 +4,6 @@
 def nametag(first_name, last_name): #function to return first name and first initial of last name
     return("{} {}.".format(first_name,last_name[0]))
 
-
 print(nametag("Jane", "Smith")) 
 print(nametag("Francesco", "Rinaldi")) 
 print(nametag("Jean-Luc", "Grand-Pierre")) 
