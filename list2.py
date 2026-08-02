@@ -14,7 +14,6 @@ print(score)
 score.insert(3,10000) #insert method is used to add an element at a specific index
 print(score)
 
-
 score.pop(2) #pop method is used to remove the specified index default is last element of the list
 print(score)
 
