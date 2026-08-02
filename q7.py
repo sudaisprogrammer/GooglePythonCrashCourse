@@ -3,11 +3,9 @@ def format_address(address_string):
     house_number = ""
     street_name = ""
 
-
     # Separate the house number from the street name.
     address_parts = "".join(char for char in address_string if char.isdigit())
 
-    
     for address_part in address_parts:
        # Complete the if-statement with a string method.  
        if address_part.isdigit():
