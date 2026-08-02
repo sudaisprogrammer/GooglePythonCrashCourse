@@ -33,4 +33,5 @@ for z in range(1,20,step): #jump of step every time
 
 for x in range(2,10,3):
     print(x+2)
-    
+
+
