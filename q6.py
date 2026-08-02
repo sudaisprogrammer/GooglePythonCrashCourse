@@ -9,7 +9,6 @@ def pig_latin(text):
         print(words[k])
         k+=1
         
- 
     # Create the pig latin word and add it to the list
     
 #     if word.endswith(" "):
