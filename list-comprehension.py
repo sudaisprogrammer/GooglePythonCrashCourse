@@ -28,3 +28,4 @@ print(even)
 # multiples = [x for x in range(1,100)  if x%7==0]
 multiples = [x*7 for x in range(1,10)]
 print(multiples)
+
