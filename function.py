@@ -22,4 +22,3 @@ def area_triangle(base,height):
     return (1/2)*(base*height)
 
 print("area of triangle is ",area_triangle(2,3))
-
