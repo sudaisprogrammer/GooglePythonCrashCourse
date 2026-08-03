@@ -20,5 +20,3 @@ print(replace_ending("She sells seashells by the seashore", "seashells", "donuts
 print(replace_ending("The weather is nice in May", "may", "april")) 
 
 print(replace_ending("The weather is nice in May", "May", "April")) 
-
-
