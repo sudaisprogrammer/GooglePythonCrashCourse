@@ -13,6 +13,3 @@ print(names[0]) #print first element of list
 print(x[-1]) #print last element of list
 
 print(x[0:2]) #print first two elements of list
-
-
-
