@@ -11,4 +11,3 @@ def digits(num):
 
 n = digits(3411)
 print(n)
-
