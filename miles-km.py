@@ -4,6 +4,3 @@ def convert_distance(miles):
     return result
 
 print(convert_distance(12))
-
-
-
