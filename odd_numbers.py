@@ -10,4 +10,3 @@ def maximum_odd(num):
 print(maximum_odd(6)) 
 print(maximum_odd(12))
 print(maximum_odd(123))
-
