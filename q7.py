@@ -30,4 +30,3 @@ print(format_address("55 North Center Drive"))
 # mynames = "102 i am sudais ahmad"
 # newlist = mynames.split()
 # print(newlist[0])
-
