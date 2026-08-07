@@ -6,4 +6,3 @@ print(frutis)
 
 print(frutis.count("apple")) #print number of times "apple" appears in the tuple
 print(frutis.index("kiwi")) #print the index of "kiwi" in the tuple
-
