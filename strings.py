@@ -9,3 +9,4 @@ for c in name:
 
 names = ["the ","world ","is ","broken"]
 print("".join(name)) #join method joins the list into single things
+
