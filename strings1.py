@@ -32,3 +32,4 @@ price = 49.99
 with_tax = price * 1.15
 
 print("The price of the product is ${:.2f} and with tax it is ${:.2f}".format(price,with_tax)) #here {:.2f} is used to format the float value to 2 decimal places
+
