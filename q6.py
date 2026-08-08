@@ -20,4 +20,3 @@ def pig_latin(text):
 # print(pig_latin("programming in python is fun")) # Should be "rogrammingpay niay ythonpay siay unfay"
 
 pig_latin("iam am sudais ahmad")
-
