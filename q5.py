@@ -12,4 +12,3 @@ for filename in filenames:
 
 # Should be ["program.c", "stdio.h", "sample.h", "a.out", "math.h", "hpp.out"]
 print(new_filenames)
-
