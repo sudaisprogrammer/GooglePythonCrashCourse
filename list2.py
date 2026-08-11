@@ -25,3 +25,4 @@ print(score)
 
 # score.count(11) #count method is used to count the number of occurrences of an element in the list
 print(score.count(11))
+
