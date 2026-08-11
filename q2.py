@@ -7,3 +7,4 @@ def nametag(first_name, last_name): #function to return first name and first ini
 print(nametag("Jane", "Smith")) 
 print(nametag("Francesco", "Rinaldi")) 
 print(nametag("Jean-Luc", "Grand-Pierre"))
+
